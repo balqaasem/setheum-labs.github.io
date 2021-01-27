@@ -6,12 +6,12 @@ body {
 }
 
 .gradient {
-  background: rgb(0, 97, 242);
+  background: rgb(255,0,163);
   background: linear-gradient(
-    135deg,
-    rgba(0, 97, 242, 1) 0%,
-    rgba(105, 0, 199, 1) 100%
-  );
+    90deg, rgba(255,0,163,1) 0%, 
+    rgba(170,51,244,1) 24%, rgba(120,9,247,1) 42%, 
+    rgba(57,68,255,1) 58%, rgba(57,127,255,1) 76%, 
+    rgba(0,255,234,1) 100%, rgb(53, 119, 122) 100%); 
 }
 
 .page-header {
